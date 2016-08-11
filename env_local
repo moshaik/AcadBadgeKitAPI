@@ -1,0 +1,6 @@
+export DB_HOST=localhost
+export DB_NAME=acadbadgkitapi
+eport DB_PASSWORD=yourpassword
+export DB_USER=root
+export MASTER_SECRET=yoursecret
+export PORT=8080
